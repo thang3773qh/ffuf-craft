@@ -3,7 +3,7 @@
 ffuf-craft is a simple interface that converts a request into a command line format for use with the ffuf tool, streamlining the process of fuzz testing and enhancing efficiency.
 
 ```markdown
-   ![Screenshot](images/screenshot.png)
+![Screenshot](images/screenshot.png)
 
 ## 🛠️ Installation & Running
 
