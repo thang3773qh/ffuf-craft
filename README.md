@@ -10,7 +10,7 @@ ffuf-craft is a simple interface that converts a request into a command line for
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/my-static-website.git
+git clone https://github.com/thang3773qh/ffuf-craft.git
 
 # Navigate to the project folder
 cd my-static-website
