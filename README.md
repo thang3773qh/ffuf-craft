@@ -13,7 +13,7 @@ ffuf-craft is a simple interface that converts a request into a command line for
 git clone https://github.com/thang3773qh/ffuf-craft.git
 
 # Navigate to the project folder
-cd my-static-website
+cd ffuf-craft
 
 # Open the index.html in your browser
 open index.html
