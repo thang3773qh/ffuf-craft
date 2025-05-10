@@ -1,0 +1,31 @@
+.code-container {
+    position: relative;
+    background-color: #1e1e1e;
+    color: #dcdcdc;
+    padding: 1em;
+    border-radius: 8px;
+    font-family: Consolas, monospace;
+    overflow: auto;
+  }
+
+  .copy-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 0.8em;
+    border-radius: 5px;
+  }
+
+  .copy-btn:hover {
+    background-color: #555;
+  }
+
+  pre {
+    margin: 0;
+    white-space: pre-wrap;
+  }
