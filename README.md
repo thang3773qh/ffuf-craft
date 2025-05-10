@@ -1,15 +1,18 @@
 # ffuf-craft
 
-Một website tĩnh đơn giản sử dụng HTML, CSS và JavaScript.
+ffuf-craft is a simple interface that converts a request into a command line format for use with the ffuf tool, streamlining the process of fuzz testing and enhancing efficiency.
 
-## 🛠️ Cài đặt & Chạy
+```markdown
+   ![Screenshot](images/screenshot.png)
+
+## 🛠️ Installation & Running
 
 ```bash
-# Clone repo
-git clone https://github.com/thang3773qh/ffuf-craft.git
+# Clone the repo
+git clone https://github.com/your-username/my-static-website.git
 
-# Mở thư mục
+# Navigate to the project folder
 cd my-static-website
 
-# Mở file index.html trên trình duyệt
+# Open the index.html in your browser
 open index.html
